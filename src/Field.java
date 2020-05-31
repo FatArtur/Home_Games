@@ -17,7 +17,6 @@ class Field {
         System.out.print("__________");
         System.out.print("   ");
             for (int j = 0; j < field.length; j++) {
-//                System.out.print(field[j]);
                 if (j % 3 == 0)
                     System.out.print("\n   ");
                 System.out.print(field[j]);
