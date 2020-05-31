@@ -1,6 +1,5 @@
 // сущность, описывающая игровое поле
 class Field {
-    final static String X = "строки";
 
     String field[];
 
