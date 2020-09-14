@@ -1,3 +1,5 @@
+package Tasks.Module_1_4;
+
 // сущность, описывающая игровое поле
 class Field {
 
